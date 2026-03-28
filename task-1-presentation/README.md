@@ -1,4 +1,4 @@
-# Task 1 – Presentation / Infographic
+# Task 1 –  Infographic
 
 ## Topic:
 Digital Literacy
