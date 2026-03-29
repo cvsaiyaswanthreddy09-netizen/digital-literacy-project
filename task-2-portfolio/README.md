@@ -16,4 +16,4 @@ For this task, I created and updated my professional online profiles to showcase
 - Reflection notes
 
 ## Reflection:
-This task helped me understand the importance of maintaining a professional online presence. I learned how digital platforms like GitHub and LinkedIn can be used to display skills, connect with others, and improve career opportunities.
+This task helped me understand the importance of maintaining a professional online presence. I learned how digital platforms like GitHub and LinkedIn can be used to display skills, connect with others, and improve career opportunities. 
